@@ -18,7 +18,7 @@
     "title": "pytanie_studenta",
     "content": "Jak często imprezujesz?",
     "type_name": "text",
-    "answers": "integer"
+    "answers": [ "integer" ]
   }
 ]
 
