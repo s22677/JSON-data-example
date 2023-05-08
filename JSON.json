@@ -1,15 +1,22 @@
 [
-  {
+   {
     "id": 1,
     "title": "OWNER",
-    "content": "Czy palisz?",
+    "content": "Jaką nieruchomość chcesz wynająć?",
     "type_name": "CHECKBOX",
-    "answers": [ "Tak", "Nie" ]
+    "answers": [ "Pokój", "Mieszkanie", "Dom" ]
+  },
+  {
+    "id": 2,
+    "title": "OWNER",
+    "content": "Dla ilu osób chcesz wynająć nieruchomość?",
+    "type_name": "CHECKBOX",
+    "answers": [ "1", "2", "3", "Więcej" ]
   },
   {
     "id": 3,
     "title": "STUDENT",
-    "content": "Jak często imprezujesz?",
+    "content": "Czy masz jakieś uwagi dla studentów?",
     "type_name": "TEXT",
     "answers": [ "integer" ]
   }
