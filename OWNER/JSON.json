@@ -1,53 +1,53 @@
 [
    {
-    "id": 1,
-    "title": "OWNER",
-    "content": "Jaką nieruchomość chcesz wynająć?",
-    "type_name": "RADIOBUTTON",
-    "answers": [ "Pokój", "Mieszkanie", "Dom" ]
-  },
-  {
-    "id": 2,
-    "title": "OWNER",
-    "content": "Dla ilu osób chcesz wynająć nieruchomość?",
-    "type_name": "RADIOBUTTON",
-    "answers": [ "1", "2", "3", "Więcej" ]
-  },
+       "id": 1,
+       "title": "OWNER",
+       "content": "Jaką nieruchomość chcesz wynająć?",
+       "type_name": "RADIOBUTTON",
+       "answers": [ "Pokój", "Mieszkanie", "Dom" ]
+   },
    {
-    "id": 3,
-    "title": "OWNER",
-    "content": "Jakie masz preferencje wobec najemcy?",
-    "type_name": "SUB-QUESTION",
-    "answers": [
-      {
-       "id": 4,
+       "id": 2,
        "title": "OWNER",
-       "content": "Pali papierosy",
+       "content": "Dla ilu osób chcesz wynająć nieruchomość?",
        "type_name": "RADIOBUTTON",
-       "answers": [ "Tak", "Nie", "Bez znaczenia" ]
-      },
-       {
-       "id": 5,
+       "answers": [ "1", "2", "3", "Więcej" ]
+   },
+   {
+       "id": 3,
        "title": "OWNER",
-       "content": "Imprezuje",
-       "type_name": "RADIOBUTTON",
-       "answers": [ "Tak", "Nie", "Bez znaczenia" ]
-      },
-       {
-       "id": 6,
-       "title": "OWNER",
-       "content": "Zwierzęta",
-       "type_name": "RADIOBUTTON",
-       "answers": [ "Tak", "Nie", "Bez znaczenia" ]
-      },
-       {
-       "id": 7,
-       "title": "OWNER",
-       "content": "Płeć",
-       "type_name": "RADIOBUTTON",
-       "answers": [ "K", "M", "Bez znaczenia" ]
-      }  
-    ]
-  }
+       "content": "Jakie masz preferencje wobec najemcy?",
+       "type_name": "SUB-QUESTION",
+       "answers": [
+         {
+             "id": 4,
+             "title": "OWNER",
+             "content": "Pali papierosy",
+             "type_name": "RADIOBUTTON",
+             "answers": [ "Tak", "Nie", "Bez znaczenia" ]
+         },
+          {
+             "id": 5,
+             "title": "OWNER",
+             "content": "Imprezuje",
+             "type_name": "RADIOBUTTON",
+             "answers": [ "Tak", "Nie", "Bez znaczenia" ]
+         },
+          {
+             "id": 6,
+             "title": "OWNER",
+             "content": "Zwierzęta",
+             "type_name": "RADIOBUTTON",
+             "answers": [ "Tak", "Nie", "Bez znaczenia" ]
+         },
+          {
+             "id": 7,
+             "title": "OWNER",
+             "content": "Płeć",
+             "type_name": "RADIOBUTTON",
+             "answers": [ "K", "M", "Bez znaczenia" ]
+         } 
+      ]
+   }   
 ]
 
