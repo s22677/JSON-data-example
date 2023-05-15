@@ -46,7 +46,7 @@
        "content": "Płeć",
        "type_name": "RADIOBUTTON",
        "answers": [ "K", "M", "Bez znaczenia" ]
-      },  
+      }  
     ]
   }
 ]
