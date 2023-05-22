@@ -17,7 +17,7 @@
        "id": 3,
        "title": "OWNER",
        "content": "Jakie masz preferencje wobec najemcy?",
-       "type_name": "SUB-QUESTION",
+       "type_name": "SUBQUESTION",
        "answers": [
          {
              "id": 4,
