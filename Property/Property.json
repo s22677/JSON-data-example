@@ -1,0 +1,24 @@
+{
+  "propertType": "Flat",
+  "voivodeship": "Mazowieckie",
+  "city": "Warszawa",
+  "district": "Ochota",
+  "street": "Barska",
+  "buildingNumber": "10A",
+  "floor": "2",
+  "flatNumber": "212",
+  "area": 100,
+  "landArea": null,
+  "maxResidents": 4,
+  "constructionYear": 2013,
+  "numberOfRooms": 4,
+  "numberOfFloors": 5,
+  "equipment": [
+    "Telewizor",
+    "Lodówka",
+    "Kuchenka mikrofalowa"
+  ],
+  "images": [
+
+  ]
+}
