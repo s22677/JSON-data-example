@@ -1,4 +1,5 @@
-﻿{
+{
+  "offerId": 1
   "dateIssue": "15.10.2023",
   "status": "Aktualna",
   "price": 5000.00,
@@ -7,6 +8,7 @@
   "interestedPeople": 10,
   "userRegulation":  null,
   "property": {
+    "propertyId": 1
     "propertType": "Flat",
     "voivodeship": "Mazowieckie",
     "city": "Warszawa",
@@ -20,7 +22,6 @@
     "maxResidents": 4,
     "constructionYear": 2013,
     "numberOfRooms": 4,
-    "numberOfFloors": 5,
     "equipment": [
       "Telewizor",
       "Lodówka",
