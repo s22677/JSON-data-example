@@ -7,7 +7,7 @@
 	  "description": "Bardzo ładne mieszkanie",
 	  "rentalPeriod": 12,
 	  "interestedPeople": 10,
-	  "userRegulation": null,
+	  "userRegulation": "",
 	  "property": {
 		"propertyId": 1,
 		"owner": {
@@ -29,7 +29,7 @@
 		"floor": "2",
 		"flatNumber": "212",
 		"area": 100,
-		"landArea": "null",
+		"landArea": null,
 		"maxResidents": 4,
 		"constructionYear": 2013,
 		"numberOfRooms": 4,
