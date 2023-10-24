@@ -7,7 +7,7 @@
 	  "description": "Bardzo ładne mieszkanie",
 	  "rentalPeriod": 12,
 	  "interestedPeople": 10,
-	  "userRegulation": "",
+	  "userRegulation": "Nie można palić!",
 	  "property": {
 		"propertyId": 1,
 		"owner": {
