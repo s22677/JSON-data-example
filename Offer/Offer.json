@@ -11,14 +11,14 @@
 	  "property": {
 		"propertyId": 1,
 		"owner": {
-		  "id": 1,
-		  "name": "Jan",
-		  "surname": "Kowalski",
-		  "email": "jan.kowalski@gmail.com",
-		  "phoneNumber": "123456789",
-		  "profilePicture": null,
-		  "userStatus": "aktywny",
-		  "verificationStatus": "zweryfikowany"
+		  "ownerId": 1,
+		  "ownerName": "Jan",
+		  "ownerSurname": "Kowalski",
+		  "ownerEmail": "jan.kowalski@gmail.com",
+		  "ownerPhoneNumber": "123456789",
+		  "ownerProfilePicture": null,
+		  "ownerUserStatus": "aktywny",
+		  "ownerVerificationStatus": "zweryfikowany"
 		},
 		"propertType": "Flat",
 		"voivodeship": "Mazowieckie",
