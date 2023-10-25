@@ -9,38 +9,38 @@
 	  "interestedPeople": 10,
 	  "userRegulation": "Nie można palić!",
 	  "property": {
-		"propertyId": 1,
-		"owner": {
-		  "ownerId": 1,
-		  "ownerName": "Jan",
-		  "ownerSurname": "Kowalski",
-		  "ownerEmail": "jan.kowalski@gmail.com",
-		  "ownerPhoneNumber": "123456789",
-		  "ownerProfilePicture": null,
-		  "ownerUserStatus": "aktywny",
-		  "ownerVerificationStatus": "zweryfikowany"
-		},
-		"propertType": "Flat",
-		"voivodeship": "Mazowieckie",
-		"city": "Warszawa",
-		"district": "Ochota",
-		"street": "Barska",
-		"buildingNumber": "10A",
-		"floor": "2",
-		"flatNumber": "212",
-		"area": 100,
-		"landArea": null,
-		"maxResidents": 4,
-		"constructionYear": 2013,
-		"numberOfRooms": 4,
-		"equipment": [
-		  "Telewizor",
-		  "Lodówka",
-		  "Kuchenka mikrofalowa"
-		],
-		"images": [
-			"H4sIAAAAAAAAADMpt7UFAJDKMz0EAAAA"
-		]
+			"propertyId": 1,
+			"owner": {
+				"ownerId": 1,
+				"ownerName": "Jan",
+				"ownerSurname": "Kowalski",
+				"ownerEmail": "jan.kowalski@gmail.com",
+				"ownerPhoneNumber": "123456789",
+				"ownerProfilePicture": null,
+				"ownerUserStatus": "aktywny",
+				"ownerVerificationStatus": "zweryfikowany"
+			},
+			"propertyType": "Flat",
+			"voivodeship": "Mazowieckie",
+			"city": "Warszawa",
+			"district": "Ochota",
+			"street": "Barska",
+			"buildingNumber": "10A",
+			"floor": "2",
+			"flatNumber": "212",
+			"area": 100,
+			"landArea": null,
+			"maxResidents": 4,
+			"constructionYear": 2013,
+			"numberOfRooms": 4,
+			"equipment": [
+				"Telewizor",
+				"Lodówka",
+				"Kuchenka mikrofalowa"
+			],
+			"images": [
+				"H4sIAAAAAAAAADMpt7UFAJDKMz0EAAAA"
+			]
 	  }
 	}
 ]
