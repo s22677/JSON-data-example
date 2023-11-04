@@ -1,0 +1,38 @@
+{
+	"offerId": 8,
+	"dateIssue": "25.10.2023",
+	"status": "Aktualna",
+	"price": 4500.00,
+	"description": "Piękny apartament z widokiem na morze.",
+	"rentalPeriod": 10,
+	"interestedPeople": 6,
+	"userRegulation": "Zwierzęta domowe nie dozwolone",
+	"property": {
+		"propertyId": 8,
+		"owner": {
+			"ownerId": 8,
+			"ownerName": "Krzysztof",
+			"ownerSurname": "Wójcik",
+			"ownerEmail": "krzysztof.wojcik@gmail.com",
+			"ownerPhoneNumber": "777777777",
+			"ownerProfilePicture": null,
+			"ownerUserStatus": "aktywny",
+			"ownerVerificationStatus": "zweryfikowany"
+		},
+		"propertyType": "Flat",
+		"voivodeship": "Pomorskie",
+		"city": "Gdańsk",
+		"district": "Brzeźno",
+		"street": "Sea View",
+		"buildingNumber": "7",
+		"floor": "9",
+		"flatNumber": "903",
+		"area": 70,
+		"landArea": null,
+		"maxResidents": 4,
+		"constructionYear": 2016,
+		"numberOfRooms": 3,
+		"equipment": [ "Telewizor", "Lodówka", "Klimatyzacja", "Balkon" ],
+		"images": [ "" ]
+	}
+}

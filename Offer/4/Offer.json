@@ -1,0 +1,38 @@
+{
+	"offerId": 4,
+	"dateIssue": "21.10.2023",
+	"status": "Aktualna",
+	"price": 3500.00,
+	"description": "Przestronne mieszkanie w centrum miasta.",
+	"rentalPeriod": 8,
+	"interestedPeople": 3,
+	"userRegulation": "Zwierzęta domowe dozwolone",
+	"property": {
+		"propertyId": 4,
+		"owner": {
+			"ownerId": 4,
+			"ownerName": "Anna",
+			"ownerSurname": "Nowak",
+			"ownerEmail": "anna.nowak@gmail.com",
+			"ownerPhoneNumber": "555555555",
+			"ownerProfilePicture": null,
+			"ownerUserStatus": "aktywny",
+			"ownerVerificationStatus": "zweryfikowany"
+		},
+		"propertyType": "Flat",
+		"voivodeship": "Małopolskie",
+		"city": "Kraków",
+		"district": "Stare Miasto",
+		"street": "Main Street",
+		"buildingNumber": "123",
+		"floor": "3",
+		"flatNumber": "31",
+		"area": 75,
+		"landArea": null,
+		"maxResidents": 4,
+		"constructionYear": 2010,
+		"numberOfRooms": 3,
+		"equipment": [ "Telewizor", "Lodówka", "Pralka" ],
+		"images": [ "" ]
+	}
+}

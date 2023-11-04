@@ -1,0 +1,38 @@
+{
+	"offerId": 5,
+	"dateIssue": "22.10.2023",
+	"status": "Aktualna",
+	"price": 2800.00,
+	"description": "Urocze mieszkanie blisko morza.",
+	"rentalPeriod": 7,
+	"interestedPeople": 5,
+	"userRegulation": "Palenie tylko na balkonie",
+	"property": {
+		"propertyId": 5,
+		"owner": {
+			"ownerId": 5,
+			"ownerName": "Maria",
+			"ownerSurname": "Kowalczyk",
+			"ownerEmail": "maria.kowalczyk@gmail.com",
+			"ownerPhoneNumber": "777777777",
+			"ownerProfilePicture": null,
+			"ownerUserStatus": "aktywny",
+			"ownerVerificationStatus": "zweryfikowany"
+		},
+		"propertyType": "FLat",
+		"voivodeship": "Pomorskie",
+		"city": "Sopot",
+		"district": null,
+		"street": "Beach Road",
+		"buildingNumber": "15",
+		"floor": "5",
+		"flatNumber": "502",
+		"area": 60,
+		"landArea": null,
+		"maxResidents": 3,
+		"constructionYear": 2015,
+		"numberOfRooms": 2,
+		"equipment": [ "Telewizor", "Lodówka", "Klimatyzacja" ],
+		"images": [ "" ]
+	}
+}

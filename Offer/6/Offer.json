@@ -1,0 +1,38 @@
+{
+	"offerId": 6,
+	"dateIssue": "23.10.2023",
+	"status": "Aktualna",
+	"price": 7000.00,
+	"description": "Piękny dom z dużym ogrodem.",
+	"rentalPeriod": 12,
+	"interestedPeople": 8,
+	"userRegulation": "Zakaz organizowania imprez",
+	"property": {
+		"propertyId": 6,
+		"owner": {
+			"ownerId": 6,
+			"ownerName": "Piotr",
+			"ownerSurname": "Wojcik",
+			"ownerEmail": "piotr.wojcik@gmail.com",
+			"ownerPhoneNumber": "888888888",
+			"ownerProfilePicture": null,
+			"ownerUserStatus": "aktywny",
+			"ownerVerificationStatus": "zweryfikowany"
+		},
+		"propertyType": "House",
+		"voivodeship": "Śląskie",
+		"city": "Katowice",
+		"district": null,
+		"street": "Garden Street",
+		"buildingNumber": "7",
+		"floor": null,
+		"flatNumber": null,
+		"area": 150,
+		"landArea": 500,
+		"maxResidents": 6,
+		"constructionYear": 2018,
+		"numberOfRooms": 5,
+		"equipment": [ "Telewizor", "Lodówka", "Pralka", "Zmywarka" ],
+		"images": [ "" ]
+	}
+}

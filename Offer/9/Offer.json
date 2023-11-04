@@ -1,0 +1,38 @@
+{
+	"offerId": 9,
+	"dateIssue": "26.10.2023",
+	"status": "Aktualna",
+	"price": 9500.00,
+	"description": "Elegancki dom z basenem i ogrodem.",
+	"rentalPeriod": 12,
+	"interestedPeople": 8,
+	"userRegulation": "Palenie tylko na zewnątrz",
+	"property": {
+		"propertyId": 9,
+		"owner": {
+			"ownerId": 9,
+			"ownerName": "Alicja",
+			"ownerSurname": "Kowal",
+			"ownerEmail": "alicja.kowal@gmail.com",
+			"ownerPhoneNumber": "888888888",
+			"ownerProfilePicture": null,
+			"ownerUserStatus": "aktywny",
+			"ownerVerificationStatus": "zweryfikowany"
+		},
+		"propertyType": "House",
+		"voivodeship": "Śląskie",
+		"city": "Katowice",
+		"district": "Podlesie",
+		"street": "Sunset Avenue",
+		"buildingNumber": "12",
+		"floor": null,
+		"flatNumber": null,
+		"area": 180,
+		"landArea": 1000,
+		"maxResidents": 7,
+		"constructionYear": 2015,
+		"numberOfRooms": 6,
+		"equipment": [ "Telewizor", "Lodówka", "Pralka", "Zmywarka", "Basen" ],
+		"images": [ "" ]
+	}
+}
