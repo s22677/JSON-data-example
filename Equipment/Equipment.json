@@ -1,22 +1,82 @@
 ﻿[
-  "Telewizor",
-  "Lodówka",
-  "Kuchenka mikrofalowa",
-  "Pralka",
-  "Suszarka do ubrań",
-  "Odkurzacz",
-  "Zmywarka",
-  "Klimatyzacja",
-  "Ekspres do kawy",
-  "Czajnik elektryczny",
-  "Mikser",
-  "Żelazko",
-  "Suszarka do włosów",
-  "Ogrzewanie",
-  "Lampa sufitowa",
-  "Komputer",
-  "Biurko",
-  "Krzesło",
-  "Sofa",
-  "Stół jadalniany"
+  {
+    "equipmentId": 1,
+    "name": "Telewizor"
+  },
+  {
+    "equipmentId": 2,
+    "name": "Lodówka"
+  },
+  {
+    "equipmentId": 3,
+    "name": "Kuchenka mikrofalowa"
+  },
+  {
+    "equipmentId": 4,
+    "name": "Pralka"
+  },
+  {
+    "equipmentId": 5,
+    "name": "Suszarka do ubrań"
+  },
+  {
+    "equipmentId": 6,
+    "name": "Odkurzacz"
+  },
+  {
+    "equipmentId": 7,
+    "name": "Zmywarka"
+  },
+  {
+    "equipmentId": 8,
+    "name": "Klimatyzacja"
+  },
+  {
+    "equipmentId": 9,
+    "name": "Ekspres do kawy"
+  },
+  {
+    "equipmentId": 10,
+    "name": "Czajnik elektryczny"
+  },
+  {
+    "equipmentId": 11,
+    "name": "Mikser"
+  },
+  {
+    "equipmentId": 12,
+    "name": "Żelazko"
+  },
+  {
+    "equipmentId": 13,
+    "name": "Suszarka do włosów"
+  },
+  {
+    "equipmentId": 14,
+    "name": "Ogrzewanie"
+  },
+  {
+    "equipmentId": 15,
+    "name": "Lampa sufitowa"
+  },
+  {
+    "equipmentId": 16,
+    "name": "Komputer"
+  },
+  {
+    "equipmentId": 17,
+    "name": "Biurko"
+  },
+  {
+    "equipmentId": 18,
+    "name": "Krzesło"
+  },
+  {
+    "equipmentId": 19,
+    "name": "Sofa"
+  },
+  {
+    "equipmentId": 20,
+    "name": "Stół jadalniany"
+  }
 ]
