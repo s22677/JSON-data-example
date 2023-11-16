@@ -11,7 +11,7 @@
       "ownerUserStatus": "aktywny",
       "ownerVerificationStatus": "zweryfikowany"
     },
-    "propertyType": "Flat",
+    "propertyType": "FLAT",
     "voivodeship": "Mazowieckie",
     "city": "Warszawa",
     "district": "Ochota",
@@ -54,7 +54,7 @@
       "ownerUserStatus": "aktywny",
       "ownerVerificationStatus": "zweryfikowany"
     },
-    "propertyType": "Flat",
+    "propertyType": "FLAT",
     "voivodeship": "Mazowieckie",
     "city": "Warszawa",
     "district": "Ursynów",

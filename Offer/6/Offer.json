@@ -19,7 +19,7 @@
 			"ownerUserStatus": "aktywny",
 			"ownerVerificationStatus": "zweryfikowany"
 		},
-		"propertyType": "House",
+		"propertyType": "HOUSE",
 		"voivodeship": "Śląskie",
 		"city": "Katowice",
 		"district": null,

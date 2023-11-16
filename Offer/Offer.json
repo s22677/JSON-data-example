@@ -20,7 +20,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "Flat",
+			"propertyType": "FLAT",
 			"voivodeship": "Mazowieckie",
 			"city": "Warszawa",
 			"district": "Bielany",
@@ -73,7 +73,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "Flat",
+			"propertyType": "FLAT",
 			"voivodeship": "Mazowieckie",
 			"city": "Warszawa",
 			"district": "Ochota",
@@ -126,7 +126,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "House",
+			"propertyType": "HOUSE",
 			"voivodeship": "Mazowieckie",
 			"city": "Marki",
 			"district": null,
@@ -179,7 +179,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "Flat",
+			"propertyType": "FLAT",
 			"voivodeship": "Małopolskie",
 			"city": "Kraków",
 			"district": "Stare Miasto",
@@ -230,7 +230,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "FLat",
+			"propertyType": "FLAT",
 			"voivodeship": "Pomorskie",
 			"city": "Sopot",
 			"district": null,
@@ -281,7 +281,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "House",
+			"propertyType": "HOUSE",
 			"voivodeship": "Śląskie",
 			"city": "Katowice",
 			"district": null,
@@ -332,7 +332,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "Flat",
+			"propertyType": "FLAT",
 			"voivodeship": "Wielkopolskie",
 			"city": "Poznań",
 			"district": "Jeżyce",
@@ -383,7 +383,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "Flat",
+			"propertyType": "FLAT",
 			"voivodeship": "Pomorskie",
 			"city": "Gdańsk",
 			"district": "Brzeźno",
@@ -434,7 +434,7 @@
 				"ownerUserStatus": "aktywny",
 				"ownerVerificationStatus": "zweryfikowany"
 			},
-			"propertyType": "House",
+			"propertyType": "HOUSE",
 			"voivodeship": "Śląskie",
 			"city": "Katowice",
 			"district": "Podlesie",
