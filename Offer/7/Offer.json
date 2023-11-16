@@ -32,7 +32,20 @@
 		"maxResidents": 5,
 		"constructionYear": 2012,
 		"numberOfRooms": 4,
-		"equipment": [ "Telewizor", "Lodówka", "Pralka", "Kuchenka gazowa" ],
+		"equipment": [
+			{
+				"equipmentId": 1,
+				"name": "Telewizor"
+			},
+			{
+				"equipmentId": 2,
+				"name": "Lodówka"
+			},
+			{
+				"equipmentId": 3,
+				"name": "Kuchenka mikrofalowa"
+			}
+		],
 		"images": [ "" ]
 	}
 }
