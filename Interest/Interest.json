@@ -1,0 +1,22 @@
+﻿[
+  {
+    "interestId": 1,
+    "interestName": "Gotowanie"
+  },
+  {
+    "interestId": 2,
+    "interestName": "Muzyka"
+  },
+  {
+    "interestId": 3,
+    "interestName": "Sport"
+  },
+  {
+    "interestId": 4,
+    "interestName": "Podróże"
+  },
+  {
+    "interestId": 5,
+    "interestName": "Programowanie"
+  }
+]
