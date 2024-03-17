@@ -1,10 +1,12 @@
 [
     {
+        "notificationId" : 1,
         "title" : "Nowy użytkownik",
         "description" : "Witaj nowy użytkowniku",
         "time" : "11-03-2024"
     },
     {
+        "notificationId" : 2,
         "title" : "Nowy użytkownik",
         "description" : "Witaj nowy użytkowniku",
         "time" : "12-03-2024"
