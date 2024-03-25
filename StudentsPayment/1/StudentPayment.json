@@ -1,0 +1,8 @@
+{
+    "paymentId" : 1,
+    "type" : "CZYNSZ",
+    "amount" : 3000.00,
+    "receiptOfTransferDate" : null,
+    "period" : "2024.04.01 - 2024.05.01",
+    "toDate" : "2024.03.31"
+}
