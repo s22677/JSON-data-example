@@ -4,5 +4,46 @@
     "amount" : 3000.00,
     "receiptOfTransferDate" : null,
     "period" : "2024.04.01 - 2024.05.01",
-    "toDate" : "2024.03.31"
+    "toDate" : "2024.03.31",
+    "property": {
+        "propertyId": 2,
+        "owner": {
+            "ownerId": 2,
+            "ownerName": "Tomek",
+            "ownerSurname": "Kowalski",
+            "ownerEmail": "tomek.kowalski@gmail.com",
+            "ownerPhoneNumber": "987654321",
+            "ownerProfilePicture": null,
+            "ownerUserStatus": "aktywny",
+            "ownerVerificationStatus": "zweryfikowany"
+        },
+        "propertyType": "FLAT",
+        "voivodeship": "Mazowieckie",
+        "city": "Warszawa",
+        "district": "Bielany",
+        "street": "Bielska",
+        "buildingNumber": "102",
+        "floor": "7",
+        "flatNumber": "77",
+        "area": 30,
+        "landArea": null,
+        "maxResidents": 3,
+        "constructionYear": 2003,
+        "numberOfRooms": 2,
+        "equipment": [
+            {
+                "equipmentId": 1,
+                "name": "Telewizor"
+            },
+            {
+                "equipmentId": 2,
+                "name": "Lodówka"
+            },
+            {
+                "equipmentId": 3,
+                "name": "Kuchenka mikrofalowa"
+            }
+        ],
+        "images": ["https://th.bing.com/th/id/R.890d7b92838da508c266af885097b288?rik=pssDQZU%2bchcRHA&pid=ImgRaw&r=0"]
+    }
 }
